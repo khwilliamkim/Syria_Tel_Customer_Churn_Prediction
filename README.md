@@ -128,6 +128,14 @@ customer has an international plan or not.
 ### 1.5.4  Model 4: XGBoost
 Recall Score: 74
 
+### 1.5.5 Appendix: Modeling Using Pipelines
+#### 1.5.5.1 Model A: Logistic Regression
+#### 1.5.5.2 Model B: KNN
+#### 1.5.5.3 Model C: Gradient Booting
+#### 1.5.5.4 Model D: Decision Trees
+#### 1.5.5.5 Model E: Random Forrest
+#### 1.5.5.6 Model F: XGBoost
+
 ## 1.6  Conclusions
 
 The importance of this type of research in the telecom market is to help 
@@ -140,6 +148,7 @@ SyriaTel telecom company. Four seperate models were created,
 2. K-Nearest Neighbors
 3. Random Forest
 4. XG Boost
+5. Appendix: Modeling with Pipelines
 
 Our Random forest model had the highest recall score of 95.32% and was chosen
 to be the best and final model.
